@@ -1,0 +1,18 @@
+wast ls 
+wast vi test file 	
+wast cat 
+esc and coloumn and :wq save the file 
+head 20 zap-report.html
+
+
+
+
+
+
+
+
+
+
+
+
+ABHINEW20

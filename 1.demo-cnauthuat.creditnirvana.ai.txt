@@ -1,0 +1,14 @@
+1.demo-cnauthuat.creditnirvana.ai
+2.corp-cnauthuat.creditnirvana.ai
+3.cfm-retail-uatauth.creditnirvana.ai
+4.cfm-corp-uatauth.creditnirvana.ai
+5.arcil-corp-uat-auth.creditnirvana.ai
+6.iarc-corp-uatauth.creditnirvana.ai
+7.manapurram-uatauth.creditnirvana.ai
+8.auth-uat.creditnirvana.ai:8443
+9.creditnirvana-uat-auth.pnbhousing.com
+10.protium-authuat.creditnirvana.ai
+11.sandbox-insurance-uatauth.creditnirvana.ai
+12.auth-uat.creditnirvana.ai:8443
+13.vecollect-auth.vistaarfinance.net.in
+

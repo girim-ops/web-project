@@ -1,0 +1,40 @@
+packages------------------
+
+---
+--
+---
+---
+-
+---
+@springbootapplication
+@restcontroller
+public class demo application{
+public static void main(string[]args){
+springapplicaion.run(demo application.class,args);
+}
+@getmapping ("\hallo")
+public string hallo(@requetparam(value="name",deafultvalue="world")string name){
+return stirng.format("hallo %s!" name);
+}
+}
+
+
+
+
+
+
+----------------------------------------------------
+<dependency>
+<groupid>org.springframework.boot</groupid>
+<aritfactid>spring-boot-starter-actuator</aritfactid>
+</dependency>
+
+
+
+-----------------------------------------------------
+actuator -is helps to monitor,manage and management your springbootapplication.while it is running.
+@restcontroller -restcontroller is used to create REST API
+                eg :  r_c TO g_m
+backendwork -class recive HTTP REQUEST and return data JSON/XML directly
+@getmapping -getmapping is used/easy to handle HTTP get request.
+              eg : g_m TO r_c

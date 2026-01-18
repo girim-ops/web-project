@@ -1,0 +1,10 @@
+1.ABFL 
+2.ABHFL
+3.Acre Retail
+4.IARC Retail = NO PROD,
+5.Omkara Retail UAT_PROD 
+6.Shriram Finance no only Shriram housing
+7.TrueHOME
+8.Ujjivan dev alert only show, no UAT And PROD
+9.veritas
+10.iarc corp  has no PROD
